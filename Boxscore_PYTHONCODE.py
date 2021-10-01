@@ -4,7 +4,6 @@
 Created on Fri Sep 17 20:39:29 2021
 
 Bruce Anders 
-MAVS assingment 
 """
 #############################################
 """
