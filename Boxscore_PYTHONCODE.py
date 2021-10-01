@@ -25,23 +25,23 @@ from pandasql import sqldf
 Assign Variables 
 """
 ###BOX SCORE###
-boxscore_XML =r"C:\Users\peyto\Desktop\Mavs_Assignement\0021801216_boxscore.xml"
+boxscore_XML =r"C:\Users\anders\Desktop\Mavs_Assignement\0021801216_boxscore.xml"
 BXS_tree = ET.parse(boxscore_XML)
 BXS_root = BXS_tree.getroot()
 ###   Q1   ###
-Q1_XML =r"C:\Users\peyto\Desktop\Mavs_Assignement\0021801216_pbp_Q1.xml"
+Q1_XML =r"C:\Users\anders\Desktop\Mavs_Assignement\0021801216_pbp_Q1.xml"
 Q1_tree = ET.parse(Q1_XML)
 Q1_root = Q1_tree.getroot()
 ###   Q2   ###
-Q2_XML =r"C:\Users\peyto\Desktop\Mavs_Assignement\0021801216_pbp_Q2.xml"
+Q2_XML =r"C:\Users\anders\Desktop\Mavs_Assignement\0021801216_pbp_Q2.xml"
 Q2_tree = ET.parse(Q2_XML)
 Q2_root = Q2_tree.getroot()
 ###   Q3   ###
-Q3_XML =r"C:\Users\peyto\Desktop\Mavs_Assignement\0021801216_pbp_Q3.xml"
+Q3_XML =r"C:\Users\anders\Desktop\Mavs_Assignement\0021801216_pbp_Q3.xml"
 Q3_tree = ET.parse(Q3_XML)
 Q3_root = Q3_tree.getroot()
 ###   Q4   ###
-Q4_XML =r"C:\Users\peyto\Desktop\Mavs_Assignement\0021801216_pbp_Q4.xml"
+Q4_XML =r"C:\Users\anders\Desktop\Mavs_Assignement\0021801216_pbp_Q4.xml"
 Q4_tree = ET.parse(Q4_XML)
 Q4_root = Q4_tree.getroot()
 
